@@ -47,9 +47,7 @@ Append T2 to the readme file using echo
 
 
 
-```stub
-Append a string hello to the readme file using echo command
-```
+
 
 
 
