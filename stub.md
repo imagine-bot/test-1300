@@ -15,3 +15,9 @@ temperature: 0
 Append Hello World to the readme file using echo
 ```
 
+
+
+```stub
+Append foo to the readme file using echo
+```
+
