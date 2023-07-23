@@ -23,9 +23,7 @@ Append foo to the readme file using echo
 
 
 
-```stub
-Append bar to the readme file using echo
-```
+
 
 
 
