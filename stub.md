@@ -33,9 +33,7 @@ Append testing to the readme file using echo
 
 
 
-```stub
-Append LFG to the readme file using echo
-```
+
 
 
 
